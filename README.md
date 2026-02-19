@@ -49,6 +49,10 @@ The dataset contains simulated financial transactions with the following key fie
 - `isFraud` – Fraud label (1 = fraud, 0 = non-fraud)
 - `isFlaggedFraud` – System-generated fraud flag
 
+Due to file size constraints, the full dataset is not included.
+You can download it here:
+[Dataset Link](https://www.kaggle.com/datasets/ealaxi/paysim1?resource=download)
+
 ---
 
 ## Tools and Technologies
